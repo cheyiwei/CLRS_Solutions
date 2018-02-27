@@ -38,8 +38,7 @@ for i = 2 to n
 ```
 ###2.1-3
 注意本题中文版翻译有误，以下为英文原版
-![image_1c2nmgmh0ad6t9uo0pg7v1gg19.png-43.7kB][1]
-  [1]: http://static.zybuluo.com/cheyiwei/drxfxjty9g5kmj7xfn1tddle/image_1c2nmgmh0ad6t9uo0pg7v1gg19.png
+> http://static.zybuluo.com/cheyiwei/drxfxjty9g5kmj7xfn1tddle/image_1c2nmgmh0ad6t9uo0pg7v1gg19.png
 ```c
 SEARCH(A,v)
 for i = 1 to A.length
